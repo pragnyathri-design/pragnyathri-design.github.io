@@ -2,7 +2,7 @@
 layout: about
 title: Pragnya Prasanna Athri
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: <a href='#'>Affiliated wtih Purdue University </a>. Research associate at Eradivir. Contacts. Motto. Etc.
 
 profile:
   align: right
