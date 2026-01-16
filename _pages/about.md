@@ -2,7 +2,7 @@
 layout: about
 title: Pragnya Prasanna Athri
 permalink: /
-subtitle: <a href="#">Affiliated wtih Purdue University and John Martinsons Honors College </a>| Research associate at Eradivir | Affiliated with Cancer Mukti Foundation 
+subtitle: Affiliated wtih <a href="#"> Purdue University </a> and <a href="#"> John Martinsons Honors College </a>| <a href="#"> Research associate at Eradivir </a>| Affiliated with <a href="#"> Cancer Mukti Foundation </a> 
 
 profile:
   align: right
@@ -27,8 +27,6 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hello
+Driven by a passion for cancer immunotherapy and public health innovation, I strive to bridge scientific discovery with meaningful clinical impact. My interests center on developing novel approaches for early cancer detection and advancing payload technologies that enhance the precision, safety, and effectiveness of cancer treatments.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I’m especially interested in research and translational efforts that connect mechanism-driven science with scalable solutions—whether through next-generation therapeutics, improved diagnostics, or platforms that make treatment more personalized.
