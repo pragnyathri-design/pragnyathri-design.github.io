@@ -2,7 +2,7 @@
 layout: about
 title: Pragnya Prasanna Athri
 permalink: /
-subtitle: Affiliated wtih <a href='#'>Purdue University </a> and <a href='#'>John Martinsons Honors College </a>| Research associate at <a href='#'> Eradivir </a> | Affiliated with <a href='#'> Cancer Mukti Foundation </a>
+subtitle: Affiliated with [Purdue University](https://www.purdue.edu) and [John Martinson Honors College](https://honors.purdue.edu) |Research Associate at [Eradivir](https://eradivir.com) | Affiliated with [Cancer Mukti Foundation](https://www.cancermuktifoundation.org)
 
 profile:
   align: right
