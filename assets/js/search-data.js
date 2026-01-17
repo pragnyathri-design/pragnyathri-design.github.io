@@ -191,11 +191,11 @@ ninja.data = [{
             window.location.href = "/blog/2023/tikzjax/";
           
         },
-      },{id: "post-a-post-with-bibliography",
+      },{id: "post-bibliography-post-disabled",
         
-          title: "a post with bibliography",
+          title: "Bibliography post (disabled)",
         
-        description: "an example of a blog post with bibliography",
+        description: "",
         section: "Posts",
         handler: () => {
           
