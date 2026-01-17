@@ -2,11 +2,11 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
+      value: Pragnya Prasanna Athri
     - name: Date of Birth
-      value: 14th March 1879
+      value: 18th Feb 2004
     - name: Languages
-      value: English, German
+      value: English, Hindi, Kannada
 
 - title: Education
   type: time_table
