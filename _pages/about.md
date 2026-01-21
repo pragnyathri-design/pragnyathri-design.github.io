@@ -1,6 +1,6 @@
 ---
 layout: about
-title: Pragnya Prasanna Athri
+title: "{{ site.title }}"
 permalink: /
 subtitle: >
   Affiliated with [Purdue University](https://www.purdue.edu) and
