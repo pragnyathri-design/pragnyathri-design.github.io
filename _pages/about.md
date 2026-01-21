@@ -1,6 +1,5 @@
 ---
 layout: about
-title: "{{ site.title }}"
 permalink: /
 subtitle: >
   Affiliated with [Purdue University](https://www.purdue.edu) and
