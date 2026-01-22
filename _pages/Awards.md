@@ -5,8 +5,6 @@ title: Awards
 nav: true
 nav_order: 5
 ---
-<meta http-equiv="refresh" content="0; url={{ '/#awards' | relative_url }}">
-
 <div style="display:grid; grid-template-columns:repeat(auto-fit, minmax(240px, 1fr)); gap:18px;">
 
   <!-- Card 1: Dean’s List & Semester Honors -->
