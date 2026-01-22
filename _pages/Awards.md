@@ -5,6 +5,7 @@ title: Awards
 nav: true
 nav_order: 5
 ---
+
 <div style="display:grid; grid-template-columns:repeat(auto-fit, minmax(240px, 1fr)); gap:18px;">
 
   <!-- Card 1: Dean’s List & Semester Honors -->
