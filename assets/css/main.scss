@@ -43,3 +43,9 @@ $max-content-width: {{ site.max_width }};
 body {
   font-family: "Times New Roman", Times, serif !important;
 }
+/* --- Keep About subtitle on one line (safe responsive) --- */
+.post-header .desc {
+  white-space: nowrap !important;
+  overflow-x: auto;
+}
+
