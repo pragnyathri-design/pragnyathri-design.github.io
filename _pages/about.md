@@ -1,5 +1,6 @@
 ---
 layout: about
+title: About
 permalink: /
 subtitle: >
   Affiliated with [Purdue University](https://www.purdue.edu) and
