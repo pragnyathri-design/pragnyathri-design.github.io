@@ -116,6 +116,8 @@
                         {%- assign nav_href = '/#volunteering' | relative_url -%}
                       {%- elsif p.title == 'Awards' -%}
                         {%- assign nav_href = '/#awards' | relative_url -%}
+                      {%- if p.title == 'skills' -%}
+                        {%- assign nav_href = '/#skills' | relative_url -%}
                       {%- endif -%}
                     {%- endif -%}
                   <a class="nav-link" href="{{ nav_href }}" {% if p.title == 'CV' %}target="_blank"{% endif %}>
