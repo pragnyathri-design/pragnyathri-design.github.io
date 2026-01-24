@@ -116,7 +116,7 @@
                 {%- elsif p.title == 'Awards' -%}
                     {%- assign nav_href = '/#awards' | relative_url -%}
                {%- elsif p.title == 'Skills' -%}
-                    {%- assign nav_href = '/about/#skills' | relative_url -%}
+                    {%- assign nav_href = '/#skills' | relative_url -%}
                 {%- endif -%}
                  
                   <a class="nav-link" href="{{ nav_href }}" {% if p.title == 'CV' %}target="_blank"{% endif %}>
