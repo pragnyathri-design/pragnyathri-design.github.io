@@ -3,10 +3,8 @@ layout: page
 title: Projects
 permalink: /projects/
 description: A growing collection of your cool projects.
-nav: false
+nav: true
 nav_order: 2
-display_categories: [work, fun]
-horizontal: false
 ---
 
 <!-- pages/projects.md -->
