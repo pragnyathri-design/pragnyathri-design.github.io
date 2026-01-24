@@ -72,7 +72,63 @@ I’m especially interested in research and translational efforts that connect m
       </p>
     </div>
   </div>
+  
+<!-- Item 4 (right) -->
+  <div class="timeline-item right">
+    <div class="timeline-content">
+      <h3>Project Title 4</h3>
+      <p class="timeline-date">2024</p>
+      <p>
+        1–2 lines about the main idea you focused on.
+      </p>
+    </div>
+  </div>
 
+<!-- Item 5 (left) -->
+  <div class="timeline-item left">
+    <div class="timeline-content">
+      <h3>Project Title 5</h3>
+      <p class="timeline-date">2024</p>
+      <p>
+        1–2 lines about the main idea you focused on.
+      </p>
+    </div>
+  </div>
+
+<!-- Item 6 (right) -->
+  <div class="timeline-item right">
+    <div class="timeline-content">
+      <h3>Project Title 6</h3>
+      <p class="timeline-date">2024</p>
+      <p>
+        1–2 lines about the main idea you focused on.
+      </p>
+    </div>
+  </div>
+
+<!-- Item 7 (left) -->
+  <div class="timeline-item left">
+    <div class="timeline-content">
+      <h3>Project Title 7</h3>
+      <p class="timeline-date">2024</p>
+      <p>
+        1–2 lines about the main idea you focused on.
+      </p>
+    </div>
+  </div>
+
+<!-- Item 8 (right) -->
+  <div class="timeline-item right">
+    <div class="timeline-content">
+      <h3>Project Title 8</h3>
+      <p class="timeline-date">2024</p>
+      <p>
+        1–2 lines about the main idea you focused on.
+      </p>
+    </div>
+  </div>
+
+  
 </div>
 
 <div id="skills"></div>
