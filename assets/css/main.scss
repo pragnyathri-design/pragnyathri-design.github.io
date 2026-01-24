@@ -168,15 +168,16 @@ html { scroll-behavior: smooth; }
   scroll-margin-top: 90px;
 }
 
-/* ===== Sticky Note About Section ===== */
+/* ===== Professional About Card ===== */
 .sticky-note {
-  background: #d6f0ff; /* light blue note */
-  padding: 25px;
-  border-radius: 12px;
-  box-shadow: 0 12px 25px rgba(0,0,0,0.15);
-  position: relative;
-  margin: 20px 0;
+  background: #f4f6f8;   /* soft professional gray */
+  padding: 22px 24px;
+  border-radius: 8px;
+  box-shadow: 0 6px 16px rgba(0,0,0,0.08);
+  margin: 10px 0 20px 0;
   line-height: 1.7;
+  max-width: 100%;       /* prevents overlap */
+  position: relative;
 }
 
 /* tape effect */
