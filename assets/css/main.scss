@@ -264,3 +264,114 @@ html { scroll-behavior: smooth; }
 .contact-band .contact-content * {
   text-align: center !important;
 }
+
+/* ===== Projects Timeline ===== */
+.timeline {
+  position: relative;
+  width: min(950px, 92%);
+  margin: 30px auto 10px;
+  padding: 10px 0 40px;
+}
+
+/* the center vertical line */
+.timeline::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 50%;
+  width: 3px;
+  background: rgba(0,0,0,0.12);
+  transform: translateX(-50%);
+  border-radius: 2px;
+}
+
+.timeline-item {
+  position: relative;
+  width: 50%;
+  padding: 10px 30px;
+  box-sizing: border-box;
+}
+
+/* left items */
+.timeline-item.left {
+  left: 0;
+  text-align: right;
+}
+
+/* right items */
+.timeline-item.right {
+  left: 50%;
+  text-align: left;
+}
+
+/* the dot on the center line */
+.timeline-item::before {
+  content: "";
+  position: absolute;
+  top: 22px;
+  width: 14px;
+  height: 14px;
+  background: #ffffff;
+  border: 3px solid rgba(0,0,0,0.25);
+  border-radius: 50%;
+  z-index: 2;
+}
+
+.timeline-item.left::before {
+  right: -7px;  /* half of dot width */
+}
+
+.timeline-item.right::before {
+  left: -7px;
+}
+
+/* the card */
+.timeline-content {
+  display: inline-block;
+  background: #f4f6f8;
+  border-radius: 14px;
+  padding: 16px 18px;
+  box-shadow: 0 6px 16px rgba(0,0,0,0.08);
+  max-width: 360px;
+}
+
+.timeline-content h3 {
+  margin: 0 0 6px 0;
+}
+
+.timeline-date {
+  margin: 0 0 10px 0;
+  opacity: 0.7;
+  font-size: 0.95rem;
+}
+
+/* Mobile: stack everything on one side */
+@media (max-width: 780px) {
+  .timeline::before {
+    left: 18px;              /* move line to the left */
+    transform: none;
+  }
+
+  .timeline-item {
+    width: 100%;
+    padding-left: 50px;
+    padding-right: 10px;
+  }
+
+  .timeline-item.left,
+  .timeline-item.right {
+    left: 0;
+    text-align: left;
+  }
+
+  .timeline-item::before {
+    left: 11px;              /* dot sits on the left line */
+    right: auto;
+  }
+
+  .timeline-content {
+    max-width: 100%;
+  }
+}
+
