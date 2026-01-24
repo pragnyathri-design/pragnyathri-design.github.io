@@ -37,6 +37,10 @@ I’m especially interested in research and translational efforts that connect m
 
 </div>
 
+</div>   <!-- end of About box -->
+
+<div style="clear: both; margin-top: 30px;"></div>
+
 <div id="projects"></div>
 ## Projects
 Paste your project content here.
