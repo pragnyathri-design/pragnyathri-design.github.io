@@ -46,6 +46,7 @@ I’m especially interested in research and translational efforts that connect m
 Paste your project content here.
 
 <div id="skills"></div>
+
 ## Skills
 
 <div id="volunteering"></div>
