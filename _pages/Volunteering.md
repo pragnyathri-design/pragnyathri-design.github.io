@@ -2,7 +2,7 @@
 layout: page
 permalink: /Volunteering/
 title: Volunteering
-nav: true
+nav: false
 nav_order: 3
 ---
 <div class="volunteer">
