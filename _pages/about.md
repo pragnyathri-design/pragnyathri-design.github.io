@@ -21,9 +21,7 @@ latest_posts:
 <div id="about"></div>
 
 <h2 style="margin-bottom: 18px;">About</h2>
-
 ## About
-
 <div style="
   background:#eef5fb;
   padding:22px 24px;
@@ -41,7 +39,6 @@ I’m especially interested in research and translational efforts that connect m
 </div>
 
 <div style="clear: both; margin-top: 30px;"></div>
-
 ## Projects
 Paste your project content here.
 
