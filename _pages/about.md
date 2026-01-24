@@ -29,8 +29,9 @@ latest_posts:
   padding:22px 24px;
   border-radius:10px;
   box-shadow:0 8px 18px rgba(0,0,0,0.08);
-  margin:25px 360px 20px 0;
+  margin:25px 380px 20px 0;
   line-height:1.7;
+  max-width:520px;
 ">
 
 Driven by a passion for cancer immunotherapy and public health innovation, I strive to bridge scientific discovery with meaningful clinical impact. My interests center on developing novel approaches for early cancer detection and advancing payload technologies that enhance the precision, safety, and effectiveness of cancer treatments.
