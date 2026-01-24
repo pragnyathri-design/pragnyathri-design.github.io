@@ -234,36 +234,24 @@ html { scroll-behavior: smooth; }
   }
 }
 
-/* ===== Contact Band ===== */
+/* ===== Contact Band (clean, aligned) ===== */
 .contact-band {
-  width: 100vw;                     /* full screen width */
-  margin-left: calc(-50vw + 50%);   /* escape page margins */
-  background: #e9ecef;              /* professional soft grey */
-  padding: 60px 20px;
-  margin-top: 60px;
+  width: 100%;
+  background: #e9ecef;
+  padding: 50px 0;
+  margin-top: 40px;
 }
 
 .contact-content {
-  max-width: 900px;
-  margin: 0 auto;
-  text-align: center;
+  width: min(900px, 90%);
+  margin: 0 auto;         /* aligns with your page content width */
+  text-align: left;        /* looks more professional */
 }
 
 .contact-content h2 {
-  font-size: 2rem;
-  margin-bottom: 20px;
+  margin: 0 0 12px 0;
 }
 
 .contact-content p {
-  font-size: 1.1rem;
   margin: 6px 0;
-}
-
-.contact-content a {
-  color: #0056b3;
-  text-decoration: none;
-}
-
-.contact-content a:hover {
-  text-decoration: underline;
 }
