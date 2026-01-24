@@ -219,7 +219,7 @@ I’m especially interested in research and translational efforts that connect m
   <div class="contact-content">
     <h2>Contact Me</h2>
     <p><strong>Email:</strong> pathri@purdue.edu</p>
-    <p><strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/pragnya-athri-1375951b5" target="_blank">linkedin.com/in/yourprofile</a></p>
+    <p><strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/pragnya-athri-1375951b5" target="_blank"> linkedin.com/in/pragnya-athri-1375951b5 </a>
   </div>
 </div>
 
