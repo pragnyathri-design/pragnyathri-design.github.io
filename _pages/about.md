@@ -21,6 +21,8 @@ latest_posts:
 
 <div id="about"></div>
 ## About
+<div style="margin-bottom: 20px;"></div>
+
 
 <div style="
   background:#eef5fb;
