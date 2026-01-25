@@ -160,8 +160,11 @@ Mentorship • Tutoring • Communication • Patience • Leadership • Educat
   <div class="vcard">
     <img class="vimg" src="{{ '/assets/img/volunteering/tutoring.jpg' | relative_url }}" alt="Tutoring">
     <div class="vtext">
-      <h3>Community Tutoring</h3>
-      <p>Tutored students and created weekly study plans.</p>
+      <h3>Rotaract Sobha Forest View — Secretary</h3>
+      <p> Served in a leadership role within a Rotary-supported community service club, helping organize large-scale initiatives including COVID medicine collection, vaccination support, and blood donation drives. Coordinated with team members and community partners to execute projects benefiting public health and local welfare.
+
+Skills:
+Leadership • Event Coordination • Community Outreach • Team Collaboration • Public Health Initiatives • Organization • Communication</p>
     </div>
   </div>
 
