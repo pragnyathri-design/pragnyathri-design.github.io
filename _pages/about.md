@@ -55,7 +55,7 @@ I’m especially interested in research and translational efforts that connect m
   <!-- Item 2 (right) -->
   <div class="timeline-item right">
     <div class="timeline-content">
-      <h3> Molecular Mechanisms of Imatinib (Gleevec) Resistance in Chronic Myeloid Leukemia </h3>
+      <h3>Molecular Mechanisms of Imatinib (Gleevec) Resistance in Chronic Myeloid Leukemia</h3>
       <p class="timeline-date"></p>
       <p>
        Skills: Site-directed mutagenesis, plasmid construct design, protein expression & purification, kinase assays, drug inhibition analysis, SDS-PAGE, Bradford protein   quantification, enzymatic activity assays, structural modeling, data analysis
@@ -66,7 +66,7 @@ I’m especially interested in research and translational efforts that connect m
   <!-- Item 3 (left) -->
   <div class="timeline-item left">
     <div class="timeline-content">
-      <h3> Molecular Biology & Cytoskeletal Dynamics </h3>
+      <h3>Molecular Biology & Cytoskeletal Dynamics</h3>
       <p class="timeline-date"></p>
       <p>
       Skills: Molecular (Gibson) cloning, plasmid preparation, Gibson assembly, gel electrophoresis, gene cloning workflows,
