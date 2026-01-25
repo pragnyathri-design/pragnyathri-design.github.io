@@ -372,3 +372,46 @@ html { scroll-behavior: smooth; }
   opacity: 0.85;
 }
 
+.projects-bg{
+  position: relative;
+  overflow: hidden;  /* keeps visuals inside section */
+  padding-top: 20px;
+  padding-bottom: 40px;
+}
+
+/* LEFT semicircle */
+.projects-bg::before{
+  content:"";
+  position:absolute;
+  width:600px;
+  height:600px;
+  left:-300px;
+  top:120px;
+
+  background: url("/assets/img/bg/research 1.png") center/cover no-repeat;
+  opacity:0.08;
+  border-radius:50%;
+  z-index:0;
+}
+
+/* RIGHT semicircle */
+.projects-bg::after{
+  content:"";
+  position:absolute;
+  width:520px;
+  height:520px;
+  right:-260px;
+  bottom:80px;
+
+  background: url("/assets/img/bg/research 2.png") center/cover no-repeat;
+  opacity:0.07;
+  border-radius:50%;
+  z-index:0;
+}
+
+/* Make sure timeline stays above */
+.projects-bg > *{
+  position:relative;
+  z-index:1;
+}
+
