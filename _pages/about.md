@@ -147,7 +147,6 @@ Community Service • Teamwork • Logistics & Operations Support • Organizati
   </div>
 
   <div class="vcard">
-    <img class="vimg" src="{{ '/assets/img/volunteering/hospital.jpg' | relative_url }}" alt="Hospital">
     <div class="vtext">
       <h3>GLEEMAN Foundation — Volunteer Tutor</h3>
       <p> Provide one-on-one academic mentoring to an underprivileged student to help close learning gaps caused by pandemic-related school disruptions. Support her academic progress by covering missed coursework, clarifying concepts, and building confidence in her studies.
