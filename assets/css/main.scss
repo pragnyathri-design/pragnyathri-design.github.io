@@ -363,4 +363,12 @@ html { scroll-behavior: smooth; }
 .site-subtitle{
   text-align: center;
 }
+.site-subtitle{
+  text-align: center;     /* ← THIS centers it */
+  margin-top: 10px;
+  margin-bottom: 28px;
+  font-size: 1.1rem;
+  font-weight: 500;
+  opacity: 0.85;
+}
 
