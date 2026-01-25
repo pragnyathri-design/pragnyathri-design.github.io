@@ -41,7 +41,7 @@ I’m especially interested in research and translational efforts that connect m
 ## Projects
 
 <div class="timeline" markdown="0">
- ...
+
 </div>
 
 </section>
