@@ -13,6 +13,8 @@ profile:
     <p></p>
 
 ---
+<p class="site-subtitle">Cancer Immunotherapy • Translational Research</p>
+
 <div id="about"></div>
 
 ## About
