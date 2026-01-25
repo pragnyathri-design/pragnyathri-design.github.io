@@ -415,3 +415,12 @@ html { scroll-behavior: smooth; }
   z-index:1;
 }
 
+/* Bring the timeline (including the center line) back on top */
+.projects-bg .timeline{
+  position: relative;
+  z-index: 10;
+}
+
+.projects-bg .timeline::before{
+  z-index: 10;
+}
