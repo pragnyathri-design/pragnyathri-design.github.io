@@ -35,11 +35,16 @@ I’m especially interested in research and translational efforts that connect m
 
 <div style="clear: both; margin-top: 30px;"></div>
 
+<section class="projects-bg">
 <div id="projects"></div>
 
 ## Projects
 
 <div class="timeline" markdown="0">
+ ...
+</div>
+
+</section>
 
   <!-- Item 1 (left) -->
   <div class="timeline-item left">
