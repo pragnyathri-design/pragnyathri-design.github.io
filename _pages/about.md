@@ -124,42 +124,33 @@ I’m especially interested in research and translational efforts that connect m
   
 </div>
 
-
 <div id="volunteering"></div>
 ## Volunteering
 
-<div class="volunteer">
+<div class="volunteering-wrap">
+  <div class="volunteering-text">
+    <p>
+      I’ve supported community health and education initiatives through service roles including
+      food insecurity relief (Food Bank), one-on-one academic mentoring (GLEEMAN Foundation),
+      and community project leadership (Rotaract Sobha Forest View). Across these roles, I’ve
+      collaborated with teams to deliver consistent support, organize outreach efforts, and help
+      expand access to resources.
+    </p>
 
-  <div class="vcard">
-    <div class="vtext">
-      <h3>Food Bank Volunteer</h3>
-      <p>Support local food insecurity relief by sorting, packaging, and distributing food to families in the Greater Lafayette community. Assist with warehouse operations to ensure efficient food processing and help expand access to essential resources through community outreach efforts.
-
-Skills:
-Community Service • Teamwork • Logistics & Operations Support • Organization • Time Management • Social Impact Engagement</p>
+    <div class="skills-chips">
+      <span>Community Service</span>
+      <span>Mentorship</span>
+      <span>Leadership</span>
+      <span>Event Coordination</span>
+      <span>Communication</span>
+      <span>Teamwork</span>
+      <span>Organization</span>
     </div>
   </div>
 
-  <div class="vcard">
-    <div class="vtext">
-      <h3>GLEEMAN Foundation — Volunteer Tutor</h3>
-      <p> Provide one-on-one academic mentoring to an underprivileged student to help close learning gaps caused by pandemic-related school disruptions. Support her academic progress by covering missed coursework, clarifying concepts, and building confidence in her studies.
-
-Skills:
-Mentorship • Tutoring • Communication • Patience • Leadership • Educational Support • Social Impact</p>
-    </div>
+  <div class="volunteering-collage">
+    <img src="/assets/img/volunteering-collage.jpg" alt="Volunteering collage">
   </div>
-
-  <div class="vcard">
-    <div class="vtext">
-      <h3>Rotaract Sobha Forest View — Secretary</h3>
-      <p> Served in a leadership role within a Rotary-supported community service club, helping organize large-scale initiatives including COVID medicine collection, vaccination support, and blood donation drives. Coordinated with team members and community partners to execute projects benefiting public health and local welfare.
-
-Skills:
-Leadership • Event Coordination • Community Outreach • Team Collaboration • Public Health Initiatives • Organization • Communication</p>
-    </div>
-  </div>
-
 </div>
 
 ---
