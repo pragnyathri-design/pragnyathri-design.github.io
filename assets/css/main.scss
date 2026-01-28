@@ -104,69 +104,43 @@ body {
     height: 200px;
   }
 }
-/* ✅ Volunteering alternating cards (strong theme-safe version) */
-.post-content .volunteer {
+/* ✅ Volunteering = ONE block */
+.post-content .volunteer{
   width: min(900px, 90%);
   margin: 40px auto;
-  display: flex;
-  flex-direction: column;
-  gap: 25px;
+  background: #f4f6f8;
+  padding: 28px;
+  border-radius: 16px;
+  box-shadow: 0 6px 16px rgba(0,0,0,0.10);
 }
 
-.post-content .volunteer .vcard {
-  display: flex !important;
-  align-items: center !important;
-  justify-content: space-between;
-  gap: 20px !important;
+/* each role inside the block */
+.post-content .volunteer .vcard{
+  background: transparent !important;
+  box-shadow: none !important;
+  border-radius: 0 !important;
 
-  padding: 20px !important;
-  border-radius: 16px !important;
-  box-shadow: 0 6px 16px rgba(0, 0, 0, 0.12) !important;
+  display: block !important;
+  padding: 0 !important;
+  margin: 0 0 22px 0 !important;
 }
 
-.post-content .volunteer .vimg {
-  width: 200px !important;
-  height: 150px !important;
-  object-fit: cover !important;
-  border-radius: 14px !important;
-  flex-shrink: 0;
+/* optional divider between roles */
+.post-content .volunteer .vcard:not(:last-child){
+  padding-bottom: 22px !important;
+  border-bottom: 1px solid rgba(0,0,0,0.10);
 }
 
-.post-content .volunteer .vtext {
-  flex: 1;
+/* images optional: either hide or keep smaller */
+.post-content .volunteer .vimg{
+  display: none !important;   /* remove images so it’s truly “one block” */
 }
 
-/* Alternate image side */
-.post-content .volunteer .vcard:nth-child(even) {
-  flex-direction: row-reverse !important;
+/* text spacing */
+.post-content .volunteer .vtext{
+  width: 100%;
 }
 
-/* Alternate rectangle colors */
-.post-content .volunteer .vcard:nth-child(odd) {
-  background: #f3f7ff !important;
-}
-.post-content .volunteer .vcard:nth-child(even) {
-  background: #fff4f4 !important;
-}
-
-/* Mobile: stack */
-@media (max-width: 700px) {
-  .post-content .volunteer .vcard,
-  .post-content .volunteer .vcard:nth-child(even) {
-    flex-direction: column !important;
-    text-align: center;
-  }
-
-  .post-content .volunteer .vimg {
-    width: 100% !important;
-    height: 220px !important;
-  }
-}
-html { scroll-behavior: smooth; }
-
-#about, #projects, #volunteering, #awards {
-  scroll-margin-top: 90px;
-}
 
 /* ===== Professional About Card ===== */
 .sticky-note {
